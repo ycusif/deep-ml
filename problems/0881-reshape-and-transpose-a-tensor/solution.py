@@ -1,6 +1,6 @@
 import torch
 
-def flatten_then_reshape(x, new_shape=(2,3)):
+def flatten_then_reshape(x, new_shape=(3,2)):
     # TODO: flatten x to 1-D, then rearrange into new_shape
     return x.flatten().reshape(new_shape)
 
