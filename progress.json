@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T14:09:41.636Z",
+  "generated_at": "2026-11-02T12:59:20.773Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -50,6 +50,19 @@
       "path": "problems/0005-scalar-multiplication-of-a-matrix",
       "first_solved_at": "2026-10-29T14:09:41.907Z",
       "last_pushed_at": "2026-10-29T14:09:41.907Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:880": {
+      "kind": "problem",
+      "id": "880",
+      "title": "Create a Float Tensor from a Python List",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/880",
+      "path": "problems/0880-create-a-float-tensor-from-a-python-list",
+      "first_solved_at": "2026-11-02T12:59:19.759Z",
+      "last_pushed_at": "2026-11-02T12:59:19.759Z",
       "language": "python",
       "lines": 5
     }
