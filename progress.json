@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T13:10:02.127Z",
+  "generated_at": "2026-11-04T14:40:59.095Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -128,6 +128,19 @@
       "path": "problems/0885-build-a-linear-regression-model-with-nn-module",
       "first_solved_at": "2026-11-04T13:10:01.278Z",
       "last_pushed_at": "2026-11-04T13:10:01.278Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:886": {
+      "kind": "problem",
+      "id": "886",
+      "title": "Run One Training Step: Forward, Loss, Backward, Optimizer",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/886",
+      "path": "problems/0886-run-one-training-step-forward-loss-backward-optimizer",
+      "first_solved_at": "2026-11-04T14:40:57.952Z",
+      "last_pushed_at": "2026-11-04T14:40:57.952Z",
       "language": "python",
       "lines": 13
     }
