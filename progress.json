@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T21:20:44.725Z",
+  "generated_at": "2026-11-16T21:24:09.759Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -179,9 +179,9 @@
       "url": "https://www.deep-ml.com/problems/898",
       "path": "problems/0898-backprop-a-linear-layer-by-hand",
       "first_solved_at": "2026-11-16T11:52:46.638Z",
-      "last_pushed_at": "2026-11-16T11:52:46.638Z",
+      "last_pushed_at": "2026-11-16T21:24:10.298Z",
       "language": "python",
-      "lines": 10
+      "lines": 7
     }
   }
 }
