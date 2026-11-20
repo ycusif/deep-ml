@@ -15,7 +15,6 @@ def batchnorm2d(x, gamma, beta, eps=1e-5):
 
     return gamma * x_hat + beta
 
-
 torch.manual_seed(0)
 x = torch.randn(8, 4, 6, 6)
 gamma = torch.ones(4)
